@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Table</title>
+
+</head>
+
+<body>
+	<table border="1" cellspacing="0">
+		<thead>
+			<tr><th colspan="6">TIME TABLE</th></tr>
+		</thead>
+		<tbody>	
+			<tr>
+				<tc><td>Days    </td></tc>
+				<tc><td>Period 1</td></tc>
+				<tc><td>Period 2</td></tc>
+				<tc><td>Period 3</td></tc>
+				<tc><td>Period 4</td></tc>
+				<tc><td>Period 5</td></tc>
+			</tr>
+			<tr>
+				<tc><td>Monday</td></tc>
+				<tc><td>English</td></tc>
+				<tc><td>Urdu</td></tc>
+				<tc><td>Math</td></tc>
+				<tc><td>SST</td></tc>
+				<tc><td>Sci</td></tc>
+			</tr>
+			<tr>
+				<tc><td>Tuesday</td></tc>
+				<tc><td>English</td></tc>
+				<tc><td>Urdu</td></tc>
+				<tc><td>Math</td></tc>
+				<tc><td>SST</td></tc>
+				<tc><td>Sci</td></tc>
+			</tr>
+			<tr>
+				<tc><td>Wednesday	</td></tc>
+				<tc><td>English		</td></tc>
+				<tc><td>Urdu		</td></tc>
+				<tc><td>Math		</td></tc>
+				<tc><td>SST			</td></tc>
+				<tc><td>Sci 		</td></tc>
+			</tr>
+			<tr>
+				<tc><td>Thursday</td></tc>
+				<tc><td>English	</td></tc>
+				<tc><td>Urdu	</td></tc>
+				<tc><td>Math	</td></tc>
+				<tc><td>SST		</td></tc>
+				<tc><td>Sci     </td></tc>
+			</tr>
+			<tr>
+				<tc><td>Friday	</td></tc>
+				<tc><td>English	</td></tc>
+				<tc><td>Urdu	</td></tc>
+				<tc><td>Math	</td></tc>
+			</tr>
+			<tr>
+				<tc><td>Saturday</td></tc>
+				<tc><td>OFF     </td></tc>
+				<tc><td>OFF		</td></tc>
+				<tc><td>OFF		</td></tc>
+				<tc><td>OFF		</td></tc>
+				<tc><td>OFF		</td></tc>
+			</tr>
+			<tr>
+				<tc><td>Sunday</td></tc>
+				<tc><td>OFF   </td></tc>
+				<tc><td>OFF   </td></tc>
+				<tc><td>OFF   </td></tc>
+				<tc><td>OFF   </td></tc>
+				<tc><td>OFF   </td></tc>
+			</tr>
+		</tbody>	
+	</table>
+</body>
+</html>
